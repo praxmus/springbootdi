@@ -1,4 +1,4 @@
-package com.hmonge.springboot.di.app.springboot_di;
+package com.hmonge.springboot.di.app.springbootdi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

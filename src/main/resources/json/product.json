@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Memoria Corsair 32",
+        "price": 375
+    },
+    {
+        "id": 2,
+        "name": "CPU Intel Core I9",
+        "price": 1062
+    },
+    {
+        "id": 3,
+        "name": "Teclado Razer 60%",
+        "price": 225
+    },
+    {
+        "id": 4,
+        "name": "Motherboard Gigabyte",
+        "price": 612
+    },
+    {
+        "id": 5,
+        "name": "Playstation 5",
+        "price": 100
+    },
+    {
+        "id": 6,
+        "name": "Abrigo Navy Largo",
+        "price": 400
+    },
+    {
+        "id": 7,
+        "name": "Horno Pizza Rojo",
+        "price": 300
+    },
+    {
+        "id": 8,
+        "name": "Chaqueta Pluma Negra",
+        "price": 612
+    }
+]
